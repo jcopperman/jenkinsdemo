@@ -1,0 +1,4 @@
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemo\bin\Debug\JenkinsDemo.pdb
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemo\obj\Debug\JenkinsDemo.pdb

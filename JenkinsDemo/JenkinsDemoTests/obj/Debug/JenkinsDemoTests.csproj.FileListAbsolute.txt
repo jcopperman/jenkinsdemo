@@ -1,0 +1,9 @@
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\JenkinsDemoTests.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\JenkinsDemoTests.pdb
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\JenkinsDemo.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\JenkinsDemo.pdb
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\obj\Debug\JenkinsDemoTests.csprojResolveAssemblyReference.cache
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\obj\Debug\JenkinsDemoTests.dll
+C:\Code\JenkinsDemo\JenkinsDemo\JenkinsDemoTests\obj\Debug\JenkinsDemoTests.pdb
