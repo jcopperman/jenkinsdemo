@@ -12,7 +12,7 @@ namespace JenkinsDemoTests
         {
             int x = 1;
             int y = 2;
-            int expected = 3;
+            int expected = 2;
             int actual = Calculator.Add(x, y);
 
             Assert.AreEqual(expected, actual);
